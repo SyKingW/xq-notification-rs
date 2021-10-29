@@ -1,4 +1,4 @@
-# xq_notification
+# xq-notification-rs
 
 rust 通知封装
 
