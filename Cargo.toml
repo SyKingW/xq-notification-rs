@@ -1,8 +1,10 @@
 [package]
 name = "xq_notification"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 authors = ["Sinking <1034439685@qq.com>"]
+license = "MIT"
+description = "通知的封装"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
